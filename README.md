@@ -14,7 +14,7 @@
 
 ## Архитектура Системы
 
-![Architecture](./docs/diagrams/1_ architecture_map.png)
+![Architecture](./docs/diagrams/1_architecture_map.png)
 ![API MAP](./docs/diagrams/2_api_endpoint_map.png)
 ![Client MAP](./docs/diagrams/3_client_map.png)
 ![Transaction MAP](./docs/diagrams/4_transaction_map.png)

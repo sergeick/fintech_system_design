@@ -15,10 +15,23 @@
 ## Архитектура Системы
 
 ![Architecture](./docs/diagrams/1_architecture_map.png)
+
+## API MAP
+
 ![API MAP](./docs/diagrams/2_api_endpoint_map.png)
+
+## Client MAP
+
 ![Client MAP](./docs/diagrams/3_client_map.png)
+
+## Transaction MAP
+
 ![Transaction MAP](./docs/diagrams/4_transaction_map.png)
+
+## Deploy MAP
+
 ![Deploy_MAP](./docs/diagrams/5_deploy_map.png)
+
 
 Проект основан на микросервисной архитектуре, что обеспечивает масштабируемость и гибкость системы. Каждый сервис отвечает за свою конкретную функциональность, что позволяет легко добавлять новые возможности и поддерживать существующие.
 

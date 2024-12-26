@@ -14,6 +14,10 @@
 
 ## Архитектура Системы
 
+![Architecture](./docs/diagrams/0_architecture_map_mini.png)
+
+## Детализированная Архитектура Системы
+
 ![Architecture](./docs/diagrams/1_architecture_map.png)
 
 ## API MAP

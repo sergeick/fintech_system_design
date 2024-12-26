@@ -1,4 +1,4 @@
-# Fintech Highload Microservice Architecture на Golang
+# Fintech Highload Microservice Architecture на Golang (Stripe API)
 
 ## Описание Проекта
 

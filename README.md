@@ -14,7 +14,7 @@
 
 ## Архитектура Системы
 
-![Architecture](./docs/diagrams/0_diagram_architecture.png)
+![Architecture](./docs/diagrams/0_diagram_architecture.md)
 
 ## Детализированная Архитектура Системы
 
